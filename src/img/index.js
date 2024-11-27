@@ -2,7 +2,7 @@
 
 import home1 from "./homeblack2.jpg";
 import aboutsection from "./carblack.jpg";
-import home3 from './homeblack.jpg'
+import home3 from './yangiblak.jpg'
 import aboutbla from './abbla.jpg';
 import home4 from './flatb.jpg'
 import logo1 from "./logo1.svg";
